@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anirbanboseraj
 - 👀 I’m interested in coding,web development,machine learning 
-- 🌱 I’m currently learning javascript,ruby
+- 🌱 I’m currently learning python,javascript,java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...fb:https://www.facebook.com/anirban.boseani.9/
+- 📫 How to reach me ...fb:https://www.facebook.com/profile.php?id=61551521001742
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...im really a shy introvert guy....im also new in this field 
 
